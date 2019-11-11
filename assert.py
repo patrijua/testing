@@ -1,1 +1,1 @@
-assert sum([1, 2, 3]) == 6, "Should be 6"
+assert sum([1, 2, 4]) == 6, "Should be 6, fails if not"
